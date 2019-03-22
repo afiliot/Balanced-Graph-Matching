@@ -1,1 +1,3 @@
-# Compressed_sensing_project
+# Compressed Sensing : Balanced Graph Matching (Spring 2019)
+
+As part of Compressed Sensing course, you’ll find in this repo our project report. We studied the two following articles: « Balanced Graph Matching » from Cour et al. (2005) and « A Fast Semidefinite Approach to Solving Binary Quadratic Problems » from Wang et al. (2013). Our notebook provides a full theoretical review of Cour et al.’s article along with our implementation. We incorporate SDCut algorithm from Wang et al. adapted to one-to-one matching problem. The folder *pickle* contains useful files for quickly visualising the results from our experiments.
